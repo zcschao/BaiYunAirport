@@ -1,6 +1,10 @@
 # AirportSolver
 by 终结卡尔斯
 
+天池广东大赛机场停机位资源分配优化  
+第一阶段
+
+
 ## 运行环境
 Gurobi/CPLEX/CBC/GLPK.  
 Python 3.5.1  | Anaconda 4.0.0.  
